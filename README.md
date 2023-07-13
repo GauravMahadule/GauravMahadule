@@ -1,3 +1,4 @@
+![logo](https://github.com/GauravMahadule/GauravMahadule/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Gaurav Mahadule</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
